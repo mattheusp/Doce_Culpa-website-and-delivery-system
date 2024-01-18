@@ -19,7 +19,8 @@ Project created for **Doce Culpa** - a cakes and pies website with a personalize
 
     - result of the Vercel project: https://doce-culpa-website-and-delivery-system.vercel.app/
 
-    [![website result](img/video/poster.jpg)](img/video/video%201.mp4)
+![GIF of the result](img/gif/2024-01-18-15-41-05-_online-video-cutter.com_.gif)
+
 
 
 ## Tools used:
