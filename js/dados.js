@@ -9,21 +9,21 @@ var MENU = {
         },
         {
             "id": "bolo-perola-negra",
-            "img": "img/cardapio/bolos/bolo 2.png",
+            "img": "./img/cardapio/bolos/bolo 2.png",
             "name": "Bolo perola negra",
             "dsc": "Bolo perola negra",
             "price": 49
         },
         {
             "id": "ouro-branco",
-            "img": "img/cardapio/bolos/bolo 3.png",
+            "img": "./img/cardapio/bolos/bolo 3.png",
             "name": "ouro branco",
             "dsc": "bolo de ouro branco",
             "price": 99
         },
         {
             "id": "red-velvet",
-            "img": "img/cardapio/bolos/bolo 4.png",
+            "img": "./img/cardapio/bolos/bolo 4.png",
             "name": "red Velvet",
             "dsc": "red Velvet",
             "price": 99
@@ -76,7 +76,7 @@ var MENU = {
     "doces": [
         {
             "id": "brownies-diversos",
-            "img": ".img/cardapio/doces/Doce 1.png",
+            "img": "./img/cardapio/doces/Doce 1.png",
             "name": "Brownies diversos",
             "dsc": "Brownies diversos",
             "price": 21.00
@@ -98,35 +98,35 @@ var MENU = {
         {
             "id": "queijo-do-reino",
             "img": "./img/cardapio/doces/Doce 4.png",
-            "name": "queijo do reino",
+            "name": "Queijo do reino",
             "dsc": "bolo de Queijo do reino",
             "price": 6.00
         },
         {
             "id": "brownie-de-chocolate-com-cobertura-de-chocolate-branco",
             "img": "./img/cardapio/doces/Doce 5.png",
-            "name": "brownie de chocolate com cobertura de chocolate branco",
+            "name": "Brownie de chocolate com cobertura de chocolate branco",
             "dsc": "brownie de chocolate com cobertura de chocolate branco",
             "price": 6.00
         },
         {
             "id": "bolo-simples",
             "img": "./img/cardapio/doces/Doce 6.png",
-            "name": "bolo simples",
+            "name": "Bolo simples",
             "dsc": "bolo simples",
             "price": 7.00
         },
         {
             "id": "red-velvet",
             "img": "./img/cardapio/doces/Doce 7.png",
-            "name": "red Velvet",
+            "name": "Red Velvet",
             "dsc": "red Velvet",
             "price": 6.00
         },
         {
             "id": "red-velvet-inverso",
             "img": "./img/cardapio/doces/Doce 8.png",
-            "name": "red Velvet inverso",
+            "name": "Red Velvet inverso",
             "dsc": "red Velvet inverso",
             "price": 5.50
         },
