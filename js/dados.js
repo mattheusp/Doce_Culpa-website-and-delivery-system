@@ -76,7 +76,7 @@ var MENU = {
     "doces": [
         {
             "id": "brownies-diversos",
-            "img": "./img/cardapio/doces/doce 1.png",
+            "img": ".img/cardapio/doces/Doce 1.png",
             "name": "Brownies diversos",
             "dsc": "Brownies diversos",
             "price": 21.00

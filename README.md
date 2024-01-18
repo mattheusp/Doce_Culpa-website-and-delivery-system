@@ -10,15 +10,14 @@ Project created for **Doce Culpa** - a cakes and pies website with a personalize
 
     - result of the Vercel project: https://doce-culpa-website-and-delivery-system.vercel.app/
 
-![Home](img/screenshots/Screenshot 1.png)
-![start](img/screenshots/Screenshot 2.png)
-![services](img/screenshots/Screenshot 3.png)
-![menu](img/screenshots/Screenshot 4.png)
-![menu](img/screenshots/Screenshot 5.png)
-![testimonials](img/screenshots/Screenshot 6.png)
-![scheduling](img/screenshots/Screenshot 7.png)
-![footer](img/screenshots/Screenshot 8.png)
-
+![Home](img/screenshots/Screenshot%201.png)
+![start](img/screenshots/Screenshot%202.png)
+![services](img/screenshots/Screenshot%203.png)
+![menu](img/screenshots/Screenshot%204.png)
+![menu](img/screenshots/Screenshot%205.png)
+![testimonials](img/screenshots/Screenshot%206.png)
+![scheduling](img/screenshots/Screenshot%207.png)
+![footer](img/screenshots/Screenshot%208.png)
 
 
 ## Tools used:
