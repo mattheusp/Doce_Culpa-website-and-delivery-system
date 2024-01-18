@@ -8,7 +8,7 @@ A **Doce Culpa** é um site desenvolvido que permite aos usuários fazerem pedid
 
 ## Fotos do projeto
 
-   - resultado do projeto Vercel: 
+   - resultado do projeto Vercel: https://doce-culpa-website-and-delivery-system.vercel.app/
 
 ![Inicio](img/screenshots/Screenshot 1.png)
 ![inicio](img/screenshots/Screenshot 2.png)
