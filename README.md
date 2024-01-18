@@ -2,14 +2,6 @@
 
 Project created for **Doce Culpa** - a cakes and pies website with a personalized system via WhatsApp!
 
-## Overview
-
-**Doce Culpa** is a website developed that allows users to place personalized orders for cakes, pies and sweets, and be directed to the company's WhatsApp with a list of chosen orders.
-
-## Project photos
-
-    - result of the Vercel project: https://doce-culpa-website-and-delivery-system.vercel.app/
-
 ![Home](img/screenshots/Screenshot%201.png)
 ![start](img/screenshots/Screenshot%202.png)
 ![services](img/screenshots/Screenshot%203.png)
@@ -19,6 +11,13 @@ Project created for **Doce Culpa** - a cakes and pies website with a personalize
 ![scheduling](img/screenshots/Screenshot%207.png)
 ![footer](img/screenshots/Screenshot%208.png)
 
+## Overview
+
+**Doce Culpa** is a website developed that allows users to place personalized orders for cakes, pies and sweets, and be directed to the company's WhatsApp with a list of chosen orders.
+
+## Project photos
+
+    - result of the Vercel project: https://doce-culpa-website-and-delivery-system.vercel.app/
 
 ## Tools used:
     - Html
