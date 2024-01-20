@@ -1,4 +1,4 @@
-![Doce Culpa](https://i.imgur.com/5Ot2CzY.png)
+![Doce Culpa](https://i.imgur.com/yzUXL8Q.png)
 
 # Delivery system via WhatsApp
 
