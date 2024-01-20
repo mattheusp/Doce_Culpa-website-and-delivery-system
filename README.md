@@ -1,3 +1,5 @@
+![Doce Culpa](https://i.imgur.com/5Ot2CzY.png)
+
 # Delivery system via WhatsApp
 
 Project created for **Doce Culpa** - a cakes and pies website with a personalized system via WhatsApp!
@@ -20,7 +22,6 @@ Project created for **Doce Culpa** - a cakes and pies website with a personalize
     - result of the Vercel project: https://doce-culpa-website-and-delivery-system.vercel.app/
 
 ![GIF of the result](img/gif/2024-01-18-15-41-05-_online-video-cutter.com_.gif)
-
 
 
 ## Tools used:
@@ -49,6 +50,6 @@ Project created for **Doce Culpa** - a cakes and pies website with a personalize
 
 If you want to contribute to a project or encounter a problem, feel free to open a new issue or send a pull request. Any contribution is welcome!
 
-## License ⚖️
+## License📄 
 
 This portfolio is licensed under the [MIT License](https://opensource.org/licenses/MIT).
